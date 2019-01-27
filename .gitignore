@@ -1,0 +1,7 @@
+# Do not put config with creds
+config.json
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
