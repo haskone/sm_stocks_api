@@ -1,0 +1,4 @@
+{
+    "mongourl": "<mongodb_url>",
+    "debug": true
+}
